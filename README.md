@@ -1,7 +1,5 @@
 # Livequestion
 
-projet de groupe livequestion
-
 Le contexte du projet : c'est un projet qui consiste à recréer le site web Livequestion tout en suivant le cahier des charges imposé .
   Ce projet a été réalisé dans des condition très spéciale etant donné que nous l'avons réalisé dans son intégralité pendant le confiment     de 2020. Nous avons donc été obligé de travailler a distance et de mettre en commun notre travail sur la platforme de patage Github et     de communiquer en chat vocal grasse a un discord.
   
